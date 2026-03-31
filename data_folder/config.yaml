@@ -1,53 +1,50 @@
-remote: true
+# data/config.yaml
 
-experienceLevel:
+# Search Settings
+positions:
+  - IT Support Specialist
+  - IT Support Engineer
+  - IT Administrator
+  - Desktop Support Technician
+  - Help Desk Tier 2
+  - Technical Support Specialist
+  - Automation Specialist
+  - Systems Administrator
+
+locations:
+  - Dubai
+  - Sharjah
+  - Abu Dhabi
+
+distance: 25
+refresh_interval: 7200  # Checks for new jobs every 2 hours
+applied_jobs_log: "data/applied_jobs.txt"
+
+# Search Filters
+experience_level:
   internship: false
-  entry: true
+  entry_level: true
   associate: true
-  mid-senior level: true
+  mid_senior_level: true
   director: false
   executive: false
 
-jobTypes:
-  full-time: true
-  contract: false
-  part-time: false
-  temporary: true
+job_types:
+  full_time: true
+  contract: true
+  permanent: true
+  temporary: false
   internship: false
-  other: false
-  volunteer: true
 
-date:
-  all time: false
-  month: false
-  week: false
-  24 hours: true
+date_listed:
+  past_24_hours: true
+  past_week: false
+  past_month: false
 
-positions:
-  - Software engineer
+# Remote Settings
+remote: false
+on_site: true
+hybrid: true
 
-locations:
-  - Germany
-
-apply_once_at_company: true
-
-distance: 100
-
-company_blacklist:
-  - wayfair
-  - Crossover
-
-title_blacklist:
-  - word1
-  - word2
-
-location_blacklist:
-  - Brazil
-
-job_applicants_threshold:
-  min_applicants: 0
-  max_applicants: 30
-
-llm_model_type: openai
-llm_model: 'gpt-4o-mini'
-# llm_api_url: 'https://api.pawan.krd/cosmosrp/v1'
+# Output Settings
+output_language: "en"
