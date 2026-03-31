@@ -1,130 +1,103 @@
 personal_information:
-  name: "[Your Name]"
-  surname: "[Your Surname]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Your Country]"
-  city: "[Your City]"
-  address: "[Your Address]"
-  zip_code: "[Your zip code]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
-  email: "[Your Email Address]"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  [cite_start]name: "Afry" [cite: 1, 77]
+  [cite_start]surname: "Muhamath" [cite: 1, 77]
+  [cite_start]date_of_birth: "2000-06-17" [cite: 75]
+  [cite_start]country: "United Arab Emirates" [cite: 2, 79]
+  [cite_start]city: "Dubai" [cite: 2, 79]
+  [cite_start]address: "Karama, Dubai" [cite: 2, 79]
+  zip_code: "00000"
+  [cite_start]phone_prefix: "+971" [cite: 2, 79]
+  [cite_start]phone: "563241301" [cite: 2, 79]
+  [cite_start]email: "afrymuhamath2@gmail.com" [cite: 2, 77]
+  github: ""
+  [cite_start]linkedin: "www.linkedin.com/in/afry-muhamath" [cite: 2]
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+  - [cite_start]education_level: "Bsc in Information Technology (Reading)" [cite: 52, 104]
+    [cite_start]institution: "Saisha Institute Of Technical Science, Chennai, India" [cite: 52, 103]
+    [cite_start]field_of_study: "Information Technology" [cite: 52, 104]
+    [cite_start]final_evaluation_grade: "In Progress" [cite: 52, 104]
+    start_date: ""
+    [cite_start]year_of_completion: "Current" [cite: 52, 104]
+  - [cite_start]education_level: "Diploma in ICT (NVQ Level-05)" [cite: 58, 108]
+    [cite_start]institution: "National Vocational Training Institute of Sri Lanka" [cite: 58, 107]
+    [cite_start]field_of_study: "Information and Communication Technology" [cite: 58, 108]
+    [cite_start]final_evaluation_grade: "Pass" [cite: 58, 108]
+    start_date: ""
+    year_of_completion: ""
 
 experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - [cite_start]position: "IT Support & Automation Specialist" [cite: 18, 85]
+    [cite_start]company: "Middle East Group Of Companies - UAE" [cite: 17, 85]
+    [cite_start]employment_period: "May 2023 - Present" [cite: 20, 85]
+    [cite_start]location: "Dubai, UAE" [cite: 17, 85]
+    [cite_start]industry: "Multi-Industry Conglomerate" [cite: 17, 19]
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - [cite_start]responsibility_1: "Engineered a specialized fetching system using PHP and JavaScript to scan ERP-generated invoices and extract patient data." [cite: 22, 86]
+      - [cite_start]responsibility_2: "Built a custom reporting tool in PHP to parse network transaction emails and PDFs into structured Excel reports." [cite: 23, 87]
+      - [cite_start]responsibility_3: "Served as Microsoft 365 Super Admin, managing security policies, network switches, and cPanel configurations." [cite: 26, 90]
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - [cite_start]"Gemini API Integration" [cite: 13, 50]
+      - [cite_start]"Python Automation" [cite: 13, 116]
+      - [cite_start]"Network Administration" [cite: 12, 83]
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - [cite_start]position: "IT Support Technician" [cite: 41, 100]
+    [cite_start]company: "Pc Village (Pvt) ltd" [cite: 40, 100]
+    [cite_start]employment_period: "March 2020 - August 2021" [cite: 49, 101]
+    [cite_start]location: "Sri Lanka" [cite: 40, 100]
+    [cite_start]industry: "Information Technology Retail & Services" [cite: 42, 43]
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - [cite_start]responsibility_1: "Specialized in PC assembly and hardware diagnostics." [cite: 44, 98]
+      - [cite_start]responsibility_2: "Upgraded components like RAM and hard disks and tested power supplies." [cite: 45, 46, 99]
+      - [cite_start]responsibility_3: "Provided technical advice and customer support." [cite: 47, 99]
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - [cite_start]"Hardware Troubleshooting" [cite: 50, 92]
+      - [cite_start]"PC Assembly" [cite: 44, 98]
+      - [cite_start]"System Maintenance" [cite: 38, 92]
 
 projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-
-certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
+  - [cite_start]name: "P.R.I.M.E. CORE | Custom AI WhatsApp Integration" [cite: 65]
+    [cite_start]description: "Developed a personalized WhatsApp bot using Gemini API, Python, and Flask to handle complex conversational contexts." [cite: 66, 67]
+    [cite_start]link: "www.afryportfolio17.cfd" [cite: 2, 80]
+  - [cite_start]name: "ERP Invoice Intelligence System" [cite: 69]
+    [cite_start]description: "Architected a local PHP processing engine to automate data extraction from 200+ complex PDF invoices simultaneously." [cite: 70, 71]
+    [cite_start]link: "www.afry.portfolio17.cfd/attendance_web_app.html" [cite: 62]
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
+  - [cite_start]language: "English" [cite: 75, 113]
+    [cite_start]proficiency: "Professional" [cite: 60, 113]
+  - [cite_start]language: "Tamil" [cite: 75]
+    [cite_start]proficiency: "Native" [cite: 75]
+  - [cite_start]language: "Malayalam" [cite: 75]
+    [cite_start]proficiency: "Conversational" [cite: 75]
+  - [cite_start]language: "Sinhala" [cite: 75]
+    [cite_start]proficiency: "Conversational" [cite: 75]
 
 interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
+  - [cite_start]"AI & LLM Implementation" [cite: 13, 50]
+  - [cite_start]"Cybersecurity (CTF/OSINT)" [cite: 7, 50]
+  - [cite_start]"Full-stack Web Development" [cite: 6, 83]
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "30 Days"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "Monthly AED 8,000 - 12,000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
-
-
-legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
-  canada_work_authorization: "[Yes/No]"
-  requires_canada_visa: "[Yes/No]"
-  legally_allowed_to_work_in_canada: "[Yes/No]"
-  requires_canada_sponsorship: "[Yes/No]"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
-
+  [cite_start]gender: "Male" [cite: 75]
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  [cite_start]ethnicity: "Sri Lankan" [cite: 75]
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "No"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_background_checks: "Yes"
+  locations_allowed:
+    - [cite_start]"Dubai" [cite: 2, 79]
+    - "Sharjah"
+    - "Abu Dhabi"
