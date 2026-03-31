@@ -1,0 +1,31 @@
+# data/job_title_keywords.yaml
+
+# Keywords the AI uses to find and verify relevant roles
+job_title_keywords:
+  - IT Support
+  - Information Technology
+  - Technical Support
+  - Desktop Support
+  - Network Administrator
+  - System Administrator
+  - Office 365 Admin
+  - Microsoft 365
+  - Help Desk
+  - IT Operations
+  - Automation Engineer
+  - Python Developer
+  - Web Developer
+  - Full Stack
+  - Infrastructure
+
+# Keywords to avoid (Blacklist)
+forbidden_keywords:
+  - Sales
+  - Marketing
+  - Manager
+  - Director
+  - Intern
+  - Accountant
+  - HR
+  - Nurse
+  - Civil Engineer
